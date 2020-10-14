@@ -1,0 +1,23 @@
+h1 {
+	Color: #4B0082;
+}
+
+h2 {
+	Color: #4B0082;
+}
+
+li {
+	Color: #F52887; font-size: 30;
+}
+
+body { background-color: #1B4F72; margin: 0 10%; font-family: sans-serif; }h1 {text-align: center; font-family: serif: font-weight: normal; font-size: 50; text-transform: uppercase; margin-top: 30px;}
+		h2 {text-align: center; font-family: serif: font-weight: normal; text-transform: uppercase; margin-top: 30px;}p {text-align: center; font-family: serif: font-weight: normal; text-transform: normal; margin-top: 30px;
+}
+
+div {
+	Color: #F52887; margin: 0 10%; font-family: sans-serif; text-align: center; font-family: serif: font-weight: normal; font-size: 15; font-style: italic; text-transform: uppercase; margin-top: 30px;
+}
+
+a class {
+	Color: #F52887; margin: 0 10%; font-family: sans-serif; text-align: center; font-family: serif: font-weight: normal; font-size: 15; font-style: italic; text-transform: uppercase; margin-top: 30px;
+}
