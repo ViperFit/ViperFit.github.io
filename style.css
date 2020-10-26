@@ -1,35 +1,96 @@
 h1 {
-	Color: #F52887; font-family: dancing script; font-size: 50;
+	text-color: #000000; 
+	font-family: dancing script; 
+	font-size: 50;
+	background: #f52887;
+  	border-style: solid;
+  	border-width: 6px;
+	border-radius: 50px;
 }
 
 h2 {
-	Color: #F52887;
+	Color: aqua;
+	font-size: 40;
 }
 
 h3 {
-	Color: #F52887; text-align: center;
+	Color: #000000; 
+	text-align: center;
+}
+
+h4 {
+	Color: aqua; 
+	text-align: center;
+	font-size: 18;
+	border-color: black;
+	border-style: dotted;
+  	border-width: 3px;
+	text-transform: uppercase;
+	border-radius: 50px;
+	margin: 0 35%;
 }
 
 li {
-	Color: #F52887; font-size: 30; font-family: dancing script;
+	Color: #F52887; 
+	font-size: 30; 
+	font-family: dancing script;
 }
 
-body { background-color: #1B4F72; margin: 0 10%; text-align: center;
+body { 
+	background-color: #1B4F72; 
+	margin: 0 10%; 
+	text-align: center;
 		
 }
 
 div {
-	Color: #F52887; margin: 0 10%; font-family: dancing script; text-align: center; font-family: serif: font-weight: normal; font-size: 15; font-style: italic; text-transform: uppercase; margin-top: 30px;
+	Color: #F52887; 
+	margin: 0 10%; 
+	font-family: dancing script; 
+	text-align: center; 
+	font-weight: normal; 
+	font-size: 15; 
+	font-style: italic; 
+	text-transform: uppercase; 
+	margin-top: 30px;
 }
 
-a class {
-	Color: #F52887; margin: 0 10%; font-family: dancing script; text-align: center; font-family: serif: font-weight: normal; font-size: 15; font-style: italic; text-transform: uppercase; margin-top: 30px;
+a{
+	Color: #F52887; 
+	font-family: dancing script; 
+	text-align: center;  
+	font-size: 15; 
+	font-style: italic; 
+	text-transform: uppercase; 
+	border-color: aqua;
+	border-style: dotted;
+  	border-width: 3px;
+	border-radius: 50px;
+  	
 }
 
 footer{
-	Color: #F52887;
+	Color: #000000;
 }
 
 p{
-	Color: #000000
+	Color: #FFFFFF; 
+	  border-color: #F52887;
+  	  border-style: solid;
+  	  border-width: 6px;
+	  text-align: center;
+	  background: #000000;
+  	  border-style: solid;
 }
+img{
+	border-color: aqua;
+	border-style: solid;
+  	border-width: 6px;
+}
+
+iframe{
+	border-color: #F52887;
+	border-style: solid;
+  	border-width: 6px;
+}
+
